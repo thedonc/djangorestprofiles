@@ -11,6 +11,7 @@ djangorestframework = "*"
 pillow = "==6.1.0"
 django-rest-auth = "==0.9.5"
 requests = "==2.22.0"
+django-allauth = "==0.39.1"
 
 [requires]
 python_version = "3.7"
